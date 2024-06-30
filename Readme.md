@@ -21,11 +21,15 @@ The Movie Recommendation System is a web application built using Streamlit and P
 * Screenshots:
 ![mr1](https://github.com/itsmesj/Movie-Recommendation-System/assets/81063467/fef4c4c5-2d76-45ee-80cb-2f9f8b2fdfee)
 
+
 ![mr2](https://github.com/itsmesj/Movie-Recommendation-System/assets/81063467/867d1a3f-7f97-439f-a73b-667d79e539ef)
+
 
 ![mr3](https://github.com/itsmesj/Movie-Recommendation-System/assets/81063467/3891ee5c-e89f-41dd-af58-a6a04df05b6e)
 
+
 ![mr4](https://github.com/itsmesj/Movie-Recommendation-System/assets/81063467/2f48100f-5ce4-4ed1-addb-367f70ef58aa)
+Responsive view
 
 * Installation:
 Clone the repository:
