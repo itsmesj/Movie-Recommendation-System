@@ -49,3 +49,4 @@ Streamlit
 Pandas
 NumPy
 Scikit-learn
+Pickle
