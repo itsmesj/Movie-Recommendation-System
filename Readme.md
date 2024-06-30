@@ -35,28 +35,38 @@ Responsive view
 Clone the repository:
 bash
 git clone https://github.com/itsmesj/movie-recommendation-system.git
+
 Navigate to the project directory:
+
 bash
 cd movie-recommendation-system
 Create and activate a virtual environment (optional but recommended):
+
 bash
+
 python -m venv venv
+
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
+
 Install the required dependencies:
+
 bash
+
 pip install -r requirements.txt
 
 
 * Usage:
 Run the Streamlit application:
 bash
+
 streamlit run app.py
+
 Open your web browser and go to http://localhost:8501 to view the application.
 
 * Technologies Used:
-Python
-Streamlit
-Pandas
-NumPy
-Scikit-learn
+Python, 
+Streamlit, 
+Pandas, 
+NumPy, 
+Scikit-learn, 
 Pickle
